@@ -1,0 +1,19 @@
+Contemplação de projeto
+- Formalização de proposta, aceite do cliente
+- Definição de plano de projeto
+- Definição de cronograma de projeto
+- Monitoramento e status report
+Estruturação de pastas para armazenamento (basear em exemplo da embratel)
+- Regras para teams interno (gestão e deliver) baseado nas fases do projeto
+- Regras para disponibilização em ambiente do cliente
+Estruturação de cards
+- Definição de buckets baseado em pastas criadas
+- Definição de tags baseadas em tipo de entrega
+- Regras para monitoramento
+Execução de projeto
+- Regras para elaboração de artefatos
+- Regras para revisão de artefatos
+Consulta à bibliotecas
+- Instrução de obrigatoriedade de uso de artefatos disponíveis em biblioteca interna
+Encerramento de projeto
+- Elaboração de termo de aceite e encerramento
